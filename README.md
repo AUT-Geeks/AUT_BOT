@@ -14,7 +14,7 @@ AUT Automated Sign-up Project: No junky class any more, choose only what you lik
 * Internet connection
 
 **How to install:**
-1. Download [`AUTBOT_vDAD.exe`](https://github.com/AUT-Geeks/AUT_BOT/releases/download/DAD/AUTBOT_vDAD.exe) and run it.
+1. Download [`AUTBOT_vDAD.exe`](https://github.com/AUT-Geeks/AUT_BOT/releases/download/DAD/AUTBOT_vDAD.exe) and run it. (If you have low download speed problem use alternative [Google Drive link](https://drive.google.com/file/d/1W9z4rWGCCFAVgZiXbiWFmW_OB0SCdyq1/view?usp=sharing))
 2. You may see some warnings like below warnings because the software doesn't have digital code signature certificate and it's expensive to buy (you can see annual cost [here](https://ca.yektasmartcity.co/store/code-signing). Now it is 35.64 million IRR !!)
 3. If you see any warning click on `Run anyway` or something like that.
 
